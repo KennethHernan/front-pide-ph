@@ -1,0 +1,28 @@
+{
+   "juridica" :[
+        {
+            "registro": "REGISTRO DE BIENES MUEBLES",
+            "libro": "REGISTRO DE PROPIEDAD VEHICULAR",
+            "razonSocial": "MAINFRAME S.A.C.",
+            "tipoDocumento": "PARTIDA ",
+            "numeroDocumento": "14517545    ",
+            "numeroPartida": 55050709,
+            "numeroPlaca": "CHR108 ",
+            "estado": "ACTIVA",
+            "zona": "ZONA REGISTRAL IX - SEDE LIMA",
+            "oficina": "LIMA"
+        },
+        {
+            "registro": "REGISTRO DE BIENES MUEBLES",
+            "libro": "REGISTRO DE PROPIEDAD VEHICULAR",
+            "razonSocial": "MAINFRAME S.A.C.",
+            "tipoDocumento": "PARTIDA ",
+            "numeroDocumento": "14517545    ",
+            "numeroPartida": 55064359,
+            "numeroPlaca": "CHY489 ",
+            "estado": "ACTIVA",
+            "zona": "ZONA REGISTRAL IX - SEDE LIMA",
+            "oficina": "LIMA"
+        }
+    ]
+}
